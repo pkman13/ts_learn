@@ -1,5 +1,5 @@
 "use strict";
-function addNumbers(x, y) {
+function addNumbers1(x, y) {
     return x + y;
 }
-console.log(addNumbers(3, 6));
+console.log(addNumbers1(3, 6));
